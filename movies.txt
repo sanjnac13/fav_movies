@@ -1,0 +1,6 @@
+#this is a text file for Exercise 06
+#this names my top 3 favorite movies
+
+Howl's Moving Castle
+Schindler's List
+Silence of the Lambs
